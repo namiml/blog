@@ -8,4 +8,4 @@ Read our latest content here:
 
 ## Articles with code samples in this repository
 
-- [Allow your Fans to ‘Give Thanks’ by adding a Tip Jar to Your App](https://www.namiml.com/blog/let-your-fans-support-your-app-with-a-tip-jar)
+- [Allow your Fans to ‘Give Thanks’ by adding a Tip Jar to Your App](https://www.namiml.com/blog/let-your-fans-support-your-app-with-a-tip-jar) - [Kendall Gelner](https://twitter.com/kendalldevdiary)
